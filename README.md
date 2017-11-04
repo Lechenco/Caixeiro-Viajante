@@ -7,3 +7,5 @@ no curso de Engenharia de Computação - UTFPR
 explícitas.
   Ao executar, deve-se inserir o caminho para um arquivo com extensão .tsp.
 Disponíveis em: <http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/index.html>
+
+Comando para compilar: `gcc main.c -o Caixeiro -lm`
